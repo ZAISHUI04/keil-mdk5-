@@ -1,0 +1,14 @@
+ele_chassi\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+ele_chassi\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+ele_chassi\croutine.o: E:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+ele_chassi\croutine.o: E:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+ele_chassi\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+ele_chassi\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+ele_chassi\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+ele_chassi\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+ele_chassi\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+ele_chassi\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+ele_chassi\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+ele_chassi\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+ele_chassi\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+ele_chassi\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
